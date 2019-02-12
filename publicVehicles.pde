@@ -85,7 +85,7 @@ public class publicVehicles {
       dy = 0;
     }
   }
-
+  
   // public boolean collision(int x, int y) {
   //   double distance = Math.sqrt(Math.pow((x - px), 2) + Math.pow((y - py), 2));
   //   if(distance < (s1*s2)/2) {

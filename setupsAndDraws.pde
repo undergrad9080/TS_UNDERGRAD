@@ -36,6 +36,8 @@ public class setupsAndDraws {
   		pbvFR[i].displayFromRight();
   		pbvFR[i].moveForward();
   	}
+
+
   }
 
   public void setupForPvv() {
